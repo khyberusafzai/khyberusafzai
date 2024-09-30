@@ -8,7 +8,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Khyber yousafzai</h1>
-<h3 align="center">A passionate Software Engineer From Pakistan</h3>
+<h3 align="center">A passionate IT student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman7292&label=Profile%20views&color=0e75b6&style=flat" alt="salman7292" /> </p>
 
@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Python Programming ,Api Integration,ML Models**
 
-- 📫 How to reach me **Salmanuom04@gmail.com**
+- 📫 How to reach me **khyberusafzai@gmail.com**
 
    
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(216,82,82,1) 13%, rgba(237,242,6,1) 57%);" />
