@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-<h1 align="center">Hi 👋, I'm Salman Malik</h1>
+<h1 align="center">Hi 👋, I'm Khyber yousafzai</h1>
 <h3 align="center">A passionate Software Engineer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman7292&label=Profile%20views&color=0e75b6&style=flat" alt="salman7292" /> </p>
